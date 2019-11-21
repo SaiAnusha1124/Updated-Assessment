@@ -3,18 +3,9 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.atmecs.testscripts.TestHeatClinicProduct">
-        <methods>
-          <include name="selectingProduct"/>
-          <include name="closeExtent"/>
-          <include name="initializeBrowser"/>
-          <include name="closeBrowser"/>
-          <include name="launchingUrl"/>
-        </methods>
-      </class> <!-- com.atmecs.testscripts.TestHeatClinicProduct -->
       <class name="com.atmecs.testscripts.TestNinjaStoreProducts">
         <methods>
-          <include name="selectingProducts"/>
+          <include name="selectingProducts" invocation-numbers="0"/>
           <include name="closeExtent"/>
           <include name="initializeBrowser"/>
           <include name="closeBrowser"/>

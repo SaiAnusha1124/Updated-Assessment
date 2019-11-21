@@ -17,12 +17,9 @@ import com.atmecs.testbase.TestBase;
 import com.atmecs.utils.LocatorType;
 import com.atmecs.utils.ReadExcelFile;
 import com.atmecs.utils.ReadLocatorsFile;
-import com.atmecs.validation.VerifyShirtItem;
+import com.atmecs.validation.VerifyHSProduct;
 
 public class TestHeatClinicProduct extends TestBase {
-	/*
-	 * In this Class,Selecting one Product Validating on that product details
-	 */
 	Properties properties, properties1;
 	ClickOnElementAction click = new ClickOnElementAction();
 	SendKeysAction sendkeys = new SendKeysAction();
@@ -43,18 +40,14 @@ public class TestHeatClinicProduct extends TestBase {
 
 	@DataProvider
 	public Object[][] inputValues() {
-		/*
-		 * Data provider is using to read the data from excel file
-		 */
 		Object data[][] = readexcel.readExcel("inputs-HeatClinic", ConstantsFilePaths.TESTDATA_FILE1);
 		return data;
 	}
 
 	@Test(dataProvider = "inputValues")
-	public void selectingProduct(String name, String quantity) {
-		// locators are reading through LOCATOR_FILE
+	public void selectingHSProduct(String name, String quantity) {
 		properties = ReadLocatorsFile.loadProperty(ConstantsFilePaths.LOCATOR_FILE);
-		VerifyShirtItem.testingHomePageTabs();
+		VerifyHSProduct.testingHomePageTabs();
 		element = driver.findElement(By.xpath(properties.getProperty("loc-click-mens")));
 		Actions action = new Actions(driver);
 		action.moveToElement(element).build().perform();
@@ -68,12 +61,12 @@ public class TestHeatClinicProduct extends TestBase {
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-buynow"));
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-cart"));
 		log.info("Product added into cart");
-		VerifyShirtItem.validatingProduct();
+		VerifyHSProduct.validatingProduct();
 		driver.findElement(By.xpath(properties.getProperty("loc-sendkey-quantity"))).clear();
 		sendkeys.sendKeys(driver, LocatorType.XPATH, properties.getProperty("loc-sendkey-quantity"), quantity);
-		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-update"));
+		click.clickElement(driver, LocatorType.CSSSELECTOR, properties.getProperty("loc-click-update"));
 		log.info("Successfully updated the quantity");
-		VerifyShirtItem.validatingAfterUpdate();
-		ExtentReport.reportLog("selectingProduct", "failed");
+		VerifyHSProduct.validatingAfterUpdate();
+		ExtentReport.reportLog("selectingHSProduct", "failed");
 	}
 }

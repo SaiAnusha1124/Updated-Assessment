@@ -24,13 +24,14 @@ public class VerifyNSProducts extends TestBase {
 		}
 	}
 	public static void verifyingFirstProduct() {
-		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-availability1")))).getText(), properties1.getProperty("expectedstock1"));
+		actualstock=driver.findElement(By.xpath((properties.getProperty("loc-verify-availability")))).getText();
+		ValidationResult.validateData(actualstock, properties1.getProperty("expectedstock1"));
 		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-productprice1")))).getText(), properties1.getProperty("expectedprice1"));
 		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-extax1")))).getText(), properties1.getProperty("expectedextax1"));
 		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-description1")))).getText(), properties1.getProperty("expecteddescription1"));
 	}
 	public static void verifyingSecondProduct() {
-		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-availability2")))).getText(), properties1.getProperty("expectedstock2"));
+		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-availability")))).getText(), properties1.getProperty("expectedstock2"));
 		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-productprice2")))).getText(), properties1.getProperty("expectedprice2"));
 		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-extax2")))).getText(), properties1.getProperty("expectedextax2"));
 		ValidationResult.validateData(driver.findElement(By.xpath((properties.getProperty("loc-verify-description2")))).getText(), properties1.getProperty("expecteddescription2"));

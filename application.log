@@ -3597,3 +3597,345 @@
 2019-11-20 19:47:15,255  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
 2019-11-20 19:47:17,323  INFO [main] LogReports:25 - Selected Chairs as Negative Product
 2019-11-20 19:47:17,532  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-21 11:29:49,495  INFO [main] LogReports:25 - IE is Started
+2019-11-21 11:31:12,945  INFO [main] LogReports:25 - IE is Started
+2019-11-21 11:31:15,397  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 11:34:09,514  INFO [main] LogReports:25 - IE is Started
+2019-11-21 11:34:16,493  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-21 11:36:16,455  INFO [main] LogReports:25 - IE is Started
+2019-11-21 11:36:22,998  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-21 11:55:16,560  INFO [main] LogReports:25 - IE is Started
+2019-11-21 11:55:20,060  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 11:58:02,554  INFO [main] LogReports:25 - IE is Started
+2019-11-21 11:58:04,837  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 11:59:12,429  INFO [main] LogReports:25 - IE is Started
+2019-11-21 11:59:14,708  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 11:59:16,582  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 11:59:18,133  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 11:59:19,502  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 11:59:20,822  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 11:59:22,162  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 11:59:22,163  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 11:59:23,860  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 11:59:25,958  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 11:59:27,770  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 11:59:28,050  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 11:59:28,239  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 11:59:28,420  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 11:59:28,607  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 11:59:28,805  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 11:59:28,970  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 11:59:28,970  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 11:59:30,218  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 11:59:30,415  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 11:59:30,415  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:02:20,297  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:02:22,695  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:02:24,640  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:02:26,141  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:02:27,605  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:02:28,934  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:02:30,311  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:02:30,311  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:02:31,871  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:02:34,180  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:02:36,128  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:02:36,313  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:02:36,555  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:02:36,767  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:02:36,953  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:02:37,135  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:02:37,302  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:02:37,303  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:02:38,574  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:02:38,745  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:02:38,746  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:02:53,877  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:03:00,608  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-21 12:03:50,284  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:03:54,598  INFO [main] LogReports:25 - Passed :  :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-21 12:03:54,598  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-21 12:03:56,778  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-21 12:04:00,201  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:04:00,381  INFO [main] LogReports:25 - Passed :  :  Actual data : $123.20 Expected data : $123.20
+2019-11-21 12:04:00,566  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-21 12:04:00,763  INFO [main] LogReports:25 - Passed :  :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-21 12:04:02,020  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:04:02,021  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-21 12:04:04,698  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-21 12:04:06,771  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:04:06,962  INFO [main] LogReports:25 - Passed :  :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-21 12:04:07,137  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-21 12:04:07,315  INFO [main] LogReports:25 - Passed :  :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-21 12:04:08,537  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:04:08,539  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-21 12:04:11,078  INFO [main] LogReports:25 - Passed :  :  Actual data : iPhone Expected data : iPhone
+2019-11-21 12:04:11,250  INFO [main] LogReports:25 - Passed :  :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-21 12:04:11,424  INFO [main] LogReports:25 - Passed :  :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-21 12:04:13,382  INFO [main] LogReports:25 - Passed :  :  Actual data : $246.40 Expected data : $246.40
+2019-11-21 12:04:13,383  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-21 12:04:15,347  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-21 12:04:15,544  INFO [main] LogReports:25 - Passed :  :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-21 12:07:15,489  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:07:17,736  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:07:19,587  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:07:21,200  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:07:22,709  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:07:24,121  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:07:25,349  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:07:25,350  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:07:26,966  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:07:29,148  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:07:30,970  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:07:31,250  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:07:31,431  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:07:31,609  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:07:31,830  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:07:32,011  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:07:32,175  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:07:32,176  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:07:33,437  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:07:33,618  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:07:33,618  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:08:20,564  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:08:26,587  INFO [main] LogReports:25 - Passed :  :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-21 12:08:26,588  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-21 12:08:29,408  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-21 12:08:35,013  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:08:35,194  INFO [main] LogReports:25 - Passed :  :  Actual data : $123.20 Expected data : $123.20
+2019-11-21 12:08:35,381  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-21 12:08:35,603  INFO [main] LogReports:25 - Passed :  :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-21 12:08:36,796  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:08:36,797  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-21 12:08:40,336  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-21 12:08:43,097  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:08:43,302  INFO [main] LogReports:25 - Passed :  :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-21 12:08:43,512  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-21 12:08:43,695  INFO [main] LogReports:25 - Passed :  :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-21 12:08:44,946  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:08:44,950  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-21 12:09:19,719  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:09:25,293  INFO [main] LogReports:25 - Passed :  :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-21 12:09:25,294  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-21 12:09:27,615  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-21 12:09:31,518  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:09:31,710  INFO [main] LogReports:25 - Passed :  :  Actual data : $123.20 Expected data : $123.20
+2019-11-21 12:09:31,898  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-21 12:09:32,130  INFO [main] LogReports:25 - Passed :  :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-21 12:09:33,451  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:09:33,452  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-21 12:09:36,435  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-21 12:09:38,683  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:09:38,936  INFO [main] LogReports:25 - Passed :  :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-21 12:09:39,142  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-21 12:09:39,365  INFO [main] LogReports:25 - Passed :  :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-21 12:09:40,599  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:09:40,602  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-21 12:09:43,078  INFO [main] LogReports:25 - Passed :  :  Actual data : iPhone Expected data : iPhone
+2019-11-21 12:09:43,276  INFO [main] LogReports:25 - Passed :  :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-21 12:09:43,476  INFO [main] LogReports:25 - Passed :  :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-21 12:09:45,692  INFO [main] LogReports:25 - Passed :  :  Actual data : $246.40 Expected data : $246.40
+2019-11-21 12:09:45,693  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-21 12:09:47,848  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-21 12:09:48,048  INFO [main] LogReports:25 - Passed :  :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-21 12:12:51,139  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:12:53,377  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:12:55,207  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:12:56,703  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:12:58,042  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:12:59,280  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:13:00,610  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:13:00,610  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:13:02,121  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:13:04,213  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:13:06,170  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:13:06,419  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:13:06,629  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:13:06,844  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:13:07,079  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:13:07,275  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:13:07,456  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:13:07,456  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:13:08,792  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:13:08,978  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:13:08,978  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:13:12,697  INFO [main] LogReports:25 - Passed :  :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-21 12:13:12,697  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-21 12:13:14,778  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-21 12:13:17,806  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:13:17,982  INFO [main] LogReports:25 - Passed :  :  Actual data : $123.20 Expected data : $123.20
+2019-11-21 12:13:18,177  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-21 12:13:18,361  INFO [main] LogReports:25 - Passed :  :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-21 12:13:19,547  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:13:19,548  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-21 12:13:22,193  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-21 12:13:24,038  INFO [main] LogReports:25 - Passed :  :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-21 12:13:24,217  INFO [main] LogReports:25 - Passed :  :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-21 12:13:24,401  INFO [main] LogReports:25 - Passed :  :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-21 12:13:24,594  INFO [main] LogReports:25 - Passed :  :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-21 12:13:25,795  INFO [main] LogReports:25 - Added product to cart
+2019-11-21 12:13:25,796  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-21 12:13:28,423  INFO [main] LogReports:25 - Passed :  :  Actual data : iPhone Expected data : iPhone
+2019-11-21 12:13:28,603  INFO [main] LogReports:25 - Passed :  :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-21 12:13:28,786  INFO [main] LogReports:25 - Passed :  :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-21 12:13:30,799  INFO [main] LogReports:25 - Passed :  :  Actual data : $246.40 Expected data : $246.40
+2019-11-21 12:13:30,800  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-21 12:13:32,758  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-21 12:13:32,956  INFO [main] LogReports:25 - Passed :  :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-21 12:37:10,197  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:37:12,410  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:37:14,324  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:37:15,953  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:37:17,516  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:37:18,998  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:37:20,580  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:37:20,580  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:37:22,151  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:37:24,294  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:37:26,134  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:37:26,410  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:37:26,606  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:37:26,795  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:37:26,970  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:37:27,145  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:37:27,296  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:37:27,297  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:37:28,522  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:37:28,756  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:37:28,756  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:43:54,372  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:44:16,594  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:44:18,828  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:44:20,708  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:44:22,423  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:44:23,857  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:44:25,326  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:44:26,765  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:44:26,765  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:45:28,473  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:45:30,737  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:45:32,686  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:45:34,301  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:45:35,838  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:45:37,216  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:45:38,698  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:45:38,698  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:45:40,307  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:45:42,532  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:45:44,452  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:45:44,654  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:46:18,129  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:46:20,271  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:46:22,109  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:46:23,650  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:46:25,021  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:46:26,410  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:46:27,726  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:46:27,727  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:46:29,166  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:46:31,276  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:46:33,653  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:46:33,830  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:47:15,966  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:47:18,029  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:47:19,896  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:47:21,392  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:47:22,842  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:47:24,174  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:47:25,433  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:47:25,433  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:47:26,990  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:47:29,222  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:47:31,819  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:47:32,010  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:47:32,185  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:47:32,361  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:47:32,537  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:47:32,710  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:47:32,872  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:47:32,873  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:47:34,135  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:47:34,307  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:47:34,307  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:48:59,669  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:49:01,822  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:49:03,727  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:49:05,558  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:49:07,270  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:49:08,595  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:49:09,856  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:49:09,856  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:49:11,309  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:49:14,434  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:49:16,538  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:49:16,730  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:49:16,925  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:49:17,108  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:49:17,278  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:49:17,452  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:49:17,612  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:49:17,613  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:49:18,864  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:49:19,033  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:49:19,033  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:51:11,173  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:51:13,439  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:51:15,390  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:51:17,104  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:51:18,658  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:51:20,142  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:51:21,438  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:51:21,438  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:51:22,982  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:51:24,967  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:51:26,811  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:51:26,998  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:51:27,182  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:51:27,370  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:51:27,554  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:51:27,741  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:51:27,892  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:51:27,892  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:51:29,136  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:52:43,516  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:52:45,789  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:52:47,661  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:52:49,144  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:52:50,504  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:52:51,872  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:52:53,225  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:52:53,226  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:52:54,679  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:52:56,739  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:52:59,169  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:52:59,405  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:52:59,582  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:52:59,762  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:52:59,963  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:53:00,147  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:53:00,314  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:53:00,314  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:53:01,598  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:53:01,768  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:53:01,768  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-21 12:58:45,001  INFO [main] LogReports:25 - IE is Started
+2019-11-21 12:58:47,192  INFO [main] LogReports:25 - Validated Home Page
+2019-11-21 12:58:49,018  INFO [main] LogReports:25 - Passed :  :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-21 12:58:50,549  INFO [main] LogReports:25 - Passed :  :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-21 12:58:51,912  INFO [main] LogReports:25 - Passed :  :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-21 12:58:53,349  INFO [main] LogReports:25 - Passed :  :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-21 12:58:54,768  INFO [main] LogReports:25 - failed :  :  Actual data :  Expected data : This is an example of a content-managed page.
+2019-11-21 12:58:54,768  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-21 12:58:56,303  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-21 12:58:58,469  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-21 12:59:00,385  INFO [main] LogReports:25 - Product added into cart
+2019-11-21 12:59:00,574  INFO [main] LogReports:25 - Passed :  :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-21 12:59:00,751  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-21 12:59:00,999  INFO [main] LogReports:25 - Passed :  :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-21 12:59:01,216  INFO [main] LogReports:25 - Passed :  :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-21 12:59:01,401  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:59:01,589  INFO [main] LogReports:25 - Passed :  :  Actual data : $14.99 Expected data : $14.99
+2019-11-21 12:59:01,590  INFO [main] LogReports:25 - Validated Product Details
+2019-11-21 12:59:02,880  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-21 12:59:03,051  INFO [main] LogReports:25 - Passed :  :  Actual data : $29.98 Expected data : $29.98
+2019-11-21 12:59:03,051  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details

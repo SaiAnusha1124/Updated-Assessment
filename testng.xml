@@ -4,9 +4,9 @@
 	<test thread-count="5" name="Test">
 		<suite-files>
 			<suite-file
-				path="./src\test\resources\suites\HeatClinicProduct.xml" />
+				path=".\src\test\resources\suites\HeatClinicProduct.xml" />
 			<suite-file
-				path="./src\test\resources\suites\NinjaStoreProducts.xml" />
+				path=".\src\test\resources\suites\NinjaStoreProducts.xml" />
 		</suite-files>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

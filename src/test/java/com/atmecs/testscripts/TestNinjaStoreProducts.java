@@ -42,7 +42,7 @@ public class TestNinjaStoreProducts extends TestBase {
 	}
 
 	@Test(dataProvider = "inputValues")
-	public void selectingProducts(String firstproduct, String quantity1, String secondproduct, String quantity2,
+	public void selectingNSProducts(String firstproduct, String quantity1, String secondproduct, String quantity2,
 			String NegativeProduct) {
 
 		properties = ReadLocatorsFile.loadProperty(ConstantsFilePaths.LOCATOR_FILE);
@@ -83,6 +83,6 @@ public class TestNinjaStoreProducts extends TestBase {
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-search"));
 		log.info("Selected Chairs as Negative Product");
 		VerifyNSProducts.verifyingNegativeCase();
-		ExtentReport.reportLog("selectingProducts", "failed");
+		ExtentReport.reportLog("selectingHSProduct", "failed");
 	}
 }
